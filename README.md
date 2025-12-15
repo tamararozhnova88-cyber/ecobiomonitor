@@ -34,22 +34,6 @@ EcoBioMonitor — учебный проект, представляющий со
 - Matplotlib, Seaborn
 - REST API (iNaturalist, GBIF)
 
-## Структура проекта
-EcoBioMonitor/
-├── data/
-│   ├── raw/
-[species.csv](https://github.com/user-attachments/files/24174448/species.csv)
-[observations.csv](https://github.com/user-attachments/files/24174444/observations.csv)
-│   └── processed/
-├── notebooks/
-│   ├── 01_EDA.ipynb
-│   ├── 02_Biodiversity_Indexes.ipynb
-│   ├── 03_Anomaly_Detection.ipynb
-│   └── 04_API_Demo_iNat_GBIF.ipynb
-├── README.md
-└── requirements.txt
-
-
 ## Результаты
 - проведён анализ данных биоразнообразия;
 - рассчитаны ключевые экологические индексы;
